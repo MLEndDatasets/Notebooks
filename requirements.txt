@@ -1,0 +1,7 @@
+numpy>1.8
+pandas
+spkit>0.0.9.6
+scipy
+scikit-learn
+scikit-image>0.21.0
+matplotlib
