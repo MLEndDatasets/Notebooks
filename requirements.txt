@@ -1,5 +1,4 @@
-mlend>1.0.0.1
-numpy>1.8
+numpy<2.0
 pandas
 matplotlib
 spkit>0.0.9.6
@@ -7,3 +6,4 @@ scipy
 scikit-learn
 scikit-image>0.21.0
 librosa
+mlend>1.0.0.1
